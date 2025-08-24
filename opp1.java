@@ -1,1 +1,3 @@
-Class new
+public class opp1 {
+
+}
