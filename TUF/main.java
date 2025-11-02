@@ -1,4 +1,4 @@
-
+//simple employee class to understand and implement class and object
 class Employee {
     public int salary;
     public String employeeName;
